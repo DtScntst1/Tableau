@@ -13,7 +13,7 @@ A collection of Business Intelligence (BI) dashboards and data visualizations bu
 ## 📁 Files
 | File | Description |
 |------|-------------|
-| [Tableau_Staj_Mahsun Yalçın_1.twbx](https://github.com/DtScntst1/Tableau/blob/main/Tableau_Staj_Mahsun%20Yal%C3%A7%C4%B1n_1.twbx) | Internship project — comprehensive business analytics dashboard |
+| [Tableau_Mahsun_Yalçın.twbx](https://github.com/DtScntst1/Tableau/blob/main/Tableau_Staj_Mahsun%20Yal%C3%A7%C4%B1n_1.twbx) | Internship project — comprehensive business analytics dashboard |
 
 ## 🛠️ Tech Stack
 - **Visualization:** Tableau Desktop / Tableau Public
